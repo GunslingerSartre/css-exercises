@@ -1,8 +1,24 @@
 
 
-.oddelements {
+.oddElements {
     color: rgb(0, 0, 0);
     background-color: rgba(192, 10, 10, 0.4);
-    font-size: 28px;
+    font-size: 14px;
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#elementTwo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.coolnessElement {
+    font-size: 24px;
+}
+
+#elementFour {
+    background-color: #00ff0080;
+    font-size: 24px;
+    font-weight: 700;
+
 }

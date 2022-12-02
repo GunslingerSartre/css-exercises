@@ -1,0 +1,14 @@
+.icon-two,
+.icon-one {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.icon-one {
+    background-color: yellow;
+}
+
+.icon-two {
+    background-color: black;
+    color: white;
+}
